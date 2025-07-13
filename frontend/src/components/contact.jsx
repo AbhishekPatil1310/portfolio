@@ -37,7 +37,7 @@ const ContactForm = () => {
         type="text"
         name="name"
         placeholder="Your Name"
-        className="w-full p-3 rounded bg-white/90"
+        className="w-full p-3 rounded bg-white/90 text-black"
         value={form.name}
         onChange={handleChange}
         required
@@ -46,7 +46,7 @@ const ContactForm = () => {
         type="email"
         name="email"
         placeholder="Your Email"
-        className="w-full p-3 rounded bg-white/90"
+        className="w-full p-3 rounded bg-white/90 text-black"
         value={form.email}
         onChange={handleChange}
         required
