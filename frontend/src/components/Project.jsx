@@ -6,7 +6,7 @@ const projects = [
     description:
       'An ad-viewing platform where users can watch ads, give feedback, and advertisers track analytics. Built with MERN stack.',
     tech: ['React', 'Node.js', 'MongoDB'],
-    link: 'https://vercel.com/abhisheks-projects-680a2fd9/advestor-frontend',
+    link: 'https://advestor-frontend.vercel.app/',
   },
   {
     title: 'Herbarium: the virtual garden',
