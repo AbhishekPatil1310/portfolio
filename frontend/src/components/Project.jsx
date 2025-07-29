@@ -6,7 +6,7 @@ const projects = [
     description:
       'An ad-viewing platform where users can watch ads, give feedback, and advertisers track analytics. Built with MERN stack.',
     tech: ['React', 'Node.js', 'MongoDB'],
-    link: 'https://github.com/AbhishekPatil1310/Patil-project.git',
+    link: 'https://vercel.com/abhisheks-projects-680a2fd9/advestor-frontend',
   },
   {
     title: 'Herbarium: the virtual garden',
@@ -27,7 +27,7 @@ const projects = [
     description:
       'A web application for booking tickets for various events. Users can view events, book tickets, and manage bookings.',
     tech: ['Flask', 'MySQL', 'Express.js', 'React'],
-    link: 'https://github.com/AbhishekPatil1310/EventTicketBooking.git',
+    link: 'https://event-ticket-booking-o0cxa2ohs-abhisheks-projects-680a2fd9.vercel.app/',
   },
 ];
 
